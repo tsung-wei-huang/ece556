@@ -76,8 +76,8 @@ Congratulations! Legal Solution!!
 Note the above output is just an example.
 
 
+*(The followings need to be modified)*
 ## Submission
-
 You need to submit a report by responding directly to [Programming Assignment #1 Submission Page](https://github.com/tsung-wei-huang/ece5960-physical-design/issues/1). The report should contain the following section:
 
 + A section describing means to compile and run your code 
@@ -103,4 +103,4 @@ Please refer to the [University Academic Policies](https://regulations.utah.edu/
 
 ## Questions
 
-If you have any questions, please create an [issue page](https://github.com/tsung-wei-huang/ece5960-physical-design/issues). We highly encourage you discuss questions with others in the issue page.
+If you have any questions, please create an [issue page](https://github.com/tsung-wei-huang/ece556/issues). We highly encourage you discuss questions with others in the issue page.
