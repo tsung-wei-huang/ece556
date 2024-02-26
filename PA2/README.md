@@ -1,6 +1,6 @@
 # Fixed-outline Floorplanning
 
-Due: 10/26 23:59 PM
+Due: 3/14 23:59 PM on Canvas
 
 ## Problem Description
 
@@ -113,17 +113,15 @@ D 60 0 100 50
 ![](images/example.png)
 
 
-
-
 ## Language
 
 You can implement this assignment using any language you like. However, we recommend `C` or `C++` for performance reason.
 
 ## Platform
 
-You need to evaluate your program on the Linux server at `twhuang-server-01.ece.utah.edu`.
+You need to evaluate your program on any Linux machine at CAE.
 
-Please email Dr. Huang (tsung-wei.huang at utah.edu) for creating an account to log in.
+Please check [my.cae.wisc.edu](https://my.cae.wisc.edu/) for creating an account to log in.
 
 
 ## Program Command 
@@ -148,7 +146,7 @@ We have also provide a checker program for you to verify your program:
 ~$ ./checker/checker_linux benchmark_name_only [your output file name]
 ```
 
-For example, assume you want to verity the benchmark `ami33`:
+For example, assume you want to verify the benchmark `ami33`:
 
 ```bash
 ~$ ls
@@ -180,16 +178,18 @@ Note the above output is just an example. The name two lines tell if your result
 
 ## Submission
 
-You need to submit a report by responding directly to [Programming Assignment #2 Submission Page](https://github.com/tsung-wei-huang/ece5960-physical-design/issues/3). The report should contain the following section:
+You need to submit (1) the source code and (2) a README instruction telling us how to compile and run your source.
+Additionally, you need to submit a report that contains the following three sections:
 
 + A section describing means to compile and run your code 
 + A section listing partition results in terms of cut size and runtime for each *PASSED* benchmark 
 + A section outlining the challenges you encountered and solved during the implementation
 
-You *DO NOT* need to submit any source code but place it under the folder `/home/your_account/PA2` in the server `twhuang-server-01.ece.utah.edu`, where `your_account` is your log-in account. The instructor will go to your folder to grade your code based on the instruction in your report. If you wish to place your code somewhere else, please document it in your report.
-
-To help you stay on schedule, we will have two checkpoints. At each checkpoint, you will need to update your current results in a Markdown Table by responding to [Programming Assignment #2 Checkpoint Report](https://github.com/tsung-wei-huang/ece5960-physical-design/issues/4).
-
+Place everything in a single .zip file and submit it to [Course Canvas](https://canvas.wisc.edu/courses/384667/) under the 
+[PA1](https://canvas.wisc.edu/courses/384667/assignments/2219169) page. 
+As we allow you to work in a team of up to 3 members, only one member needs to submit.
+In this case, you will need to *clearly indicate the names of each member in your report*, or
+the other members will receive zero.
 
 ## Grading Policy
 
@@ -201,8 +201,8 @@ This programming assignment will be graded based on the following metrics:
 
 ## Academic Integrity
 
-Please refer to the [University Academic Policies](https://regulations.utah.edu/academics/) for details about academic integrity.
+Please refer to the [University Academic Policies](https://conduct.students.wisc.edu/academic-misconduct/) for details about academic integrity.
 
 ## Questions
 
-If you have any questions, please create an [issue page](https://github.com/tsung-wei-huang/ece5960-physical-design/issues). We highly encourage you discuss questions with others in the issue page.
+If you have any questions, please create an [issue page](https://github.com/tsung-wei-huang/ece556/issues). We highly encourage you discuss questions with others in the issue page.
