@@ -38,7 +38,7 @@ You can implement this assignment using any language you like. However, we recom
 
 You need to evaluate your program on any Linux machine at CAE.
 
-Please check `my.cae.wisc.edu` for creating an account to log in.
+Please check [my.cae.wisc.edu](https://my.cae.wisc.edu/) for creating an account to log in.
 
 ## Program Command 
 
@@ -77,6 +77,7 @@ Note the above output is just an example.
 
 
 *(The followings need to be modified)*
+
 ## Submission
 
 You need to submit (1) the source code and (2) a README instruction telling us how to compile and run your source.
