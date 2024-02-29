@@ -1,6 +1,6 @@
 # Fixed-outline Floorplanning
 
-Due: 3/14 23:59 PM on [Canvas](https://canvas.wisc.edu/courses/384667/assignments/2252425)
+Due: 4/4 23:59 PM on [Canvas](https://canvas.wisc.edu/courses/384667/assignments/2252425)
 
 ## Problem Description
 
